@@ -1,0 +1,53 @@
+body{
+	background-color:Cornsilk;
+}
+
+h3{
+	padding: 35px;
+	font-weight: normal;
+}
+
+h4{
+	padding: 50px;
+	font-weight: normal;
+}
+
+h1{
+	color: SaddleBrown;
+	font-size:80px;
+	padding:20px;
+	margin:10px;
+	
+}
+
+div{
+	font-family:Georgia;
+	color:IndianRed;
+	border:2px solid SaddleBrown;
+	height:300px;
+	width:700px;
+	margin:25px;
+	border-radius:25px;
+	display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ button{
+	width: 170px;
+	height: 35px;
+	font-size:20px;
+	font-weight: bold;
+	font-family:'Courier New';
+	margin:16px;
+	
+ }
+
+img{
+	width:270px;
+	margin:10px;
+}
+
+#factBox{
+	font-size: 25px;
+}
